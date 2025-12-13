@@ -1,6 +1,6 @@
 # StitchCut Macro
 
-The StitchCut macro creates evenly spaced stitch cuts along a selected line in a sketch,  
+The StitchCut macro creates evenly spaced stitch cuts along a selected line in a sketch,
 primarily for sheet metal flat patterns to allow easier hand folding.
 
 ## Features

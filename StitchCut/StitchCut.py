@@ -2,8 +2,8 @@
 StitchCut.py
 
 Author: John Hyslop
-Description: 
-    This FreeCAD macro allows you to create evenly spaced "stitch cuts" along a selected 
+Description:
+    This FreeCAD macro allows you to create evenly spaced "stitch cuts" along a selected
     straight line in a sketch. The user can specify the start & end offsets, gap between cuts,
     and number of cuts. The macro will calculate the cut lengths and insert them directly
     into the sketch.
