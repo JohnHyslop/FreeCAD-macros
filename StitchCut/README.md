@@ -24,4 +24,6 @@ John Hyslop
 Tested on FreeCAD 1.02
 
 ## License
-Free for personal and educational use. Please credit the author.
+Free for personal, educational, and commercial use.
+
+Please credit the author.
