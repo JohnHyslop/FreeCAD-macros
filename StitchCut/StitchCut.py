@@ -10,6 +10,22 @@ Description:
 
     Created with a little extra help from ChatGPT.
 """
+# --- Macro Metadata ---
+__Name__ = "StitchCut"
+__Comment__ = "Creates evenly spaced stitch cuts along a selected line in a sketch, for hand-folding sheet metal."
+__Author__ = "John Hyslop"
+__Date__ = "2025-12-15"
+__Version__ = "1.0"
+__License__ = "Free for personal, educational, and commercial use. Please credit the author."
+__Web__ = "https://github.com/JohnHyslop/MyFreeCADMacros/StitchCut"
+__Wiki__ = "https://wiki.freecad.org/StitchCut"
+__Icon__ = ""
+__Xpm__ = ""
+__Help__ = "Select a line in a sketch, run macro, and define offsets, gap, and number of cuts."
+__Status__ = "Stable"
+__Requires__ = "FreeCAD >= 1.02"
+__Communication__ = "https://github.com/JohnHyslop/MyFreeCADMacros/issues"
+__Files__ = "StitchCut.py"
 
 import FreeCAD, FreeCADGui
 from PySide import QtGui
